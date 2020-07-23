@@ -1,0 +1,36 @@
+---
+title: "README"
+author: "Ryan Safner"
+date: "7/23/2020"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hex Stickers for courses and packages
+
+# Stickers
+
+```{r, echo=T}
+source("scripts/hexwall.R")
+
+hexwall(path = "stickers_png/",
+        sticker_row_size = 3,
+        sticker_width = 500,
+        remove_small = TRUE,
+        total_stickers = NULL,
+        remove_size = TRUE,
+        coords = NULL,
+        scale_coords = TRUE,
+        sort_mode = "random"
+)
+```
+
+All hex images were made using [GuangchuangYu's `hexSticker` package](https://github.com/GuangchuangYu/hexSticker).
+
+Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mitchelloharawild/hexwall).
+
+Images stored in `hex_png` folder.
+
