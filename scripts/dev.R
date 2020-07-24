@@ -1,5 +1,7 @@
 library(hexSticker)
 library(tidyverse)
+library(showtext) # for Fira Sans font
+font_add_google("Fira Sans")
 
 # Data Source
 # https://books.google.ca/books?id=YeoEiNLtrLsC&printsec=frontcover&dq=Angus+Maddison,+The+World+Economy,+vol.+2,+Historical+Statistics&hl=en&sa=X&ved=0ahUKEwjmnbvpy4HSAhWhx4MKHaJ0Ah0Q6AEIJTAA#v=onepage&q=Angus%20Maddison%2C%20The%20World%20Economy%2C%20vol.%202%2C%20Historical%20Statistics&f=false TABLE 1-2 PAGE 30 
