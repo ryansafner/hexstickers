@@ -24,9 +24,19 @@ package](https://github.com/GuangchuangYu/hexSticker).
 Hexwall made using [mitchelloharawild’s `hexwall`
 package](https://github.com/mitchelloharawild/hexwall).
 
-Images are stored in `hex_png` folder.
+Repo Organization
+-----------------
+
+-   `hex_png/` folder stores hex stickers as `.png` files
+
+-   `image_sources/` folder base images used for creation of some
+    stickers
+
+-   `scripts/` folder stores scripts to generate each image using
+    `hexSticker::sticker()`
 
 -   [Classes](#classes)
+
     -   [Microeconomics](#microeconomics)
     -   [Economics of Development](#economics-of-development)
     -   [International Trade](#international-trade)
@@ -34,6 +44,9 @@ Images are stored in `hex_png` folder.
     -   [Public Economics](#public-economics)
     -   [History of Economic Thought](#history-of-economic-thought)
     -   [Econometrics](#econometrics)
+
+Classes
+=======
 
 Microeconomics
 --------------
@@ -127,3 +140,12 @@ Econometrics
 -   **Details**: Stylized version of [Hans Rosling’s health + wealth
     plot](https://github.com/jennybc/gapminder). Produced in `ggplot2`
     (see `metrics.R` script for source)
+
+License
+=======
+
+Everything here is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
