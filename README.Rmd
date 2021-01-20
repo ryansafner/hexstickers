@@ -19,7 +19,7 @@ Hex Stickers used for courses websites and course slides
 source("scripts/hexwall.R")
 
 hexwall(path = "stickers_png/",
-        sticker_row_size = 3,
+        sticker_row_size = 5, # if getting error about "image magick" try changing #
         sticker_width = 500,
         remove_small = TRUE,
         total_stickers = NULL,
@@ -42,6 +42,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 
 - [Classes](#classes)
    - [Microeconomics](#microeconomics)
+   - [Economics of the Law](#economics-of-the-law)
    - [Economics of Development](#economics-of-development)
    - [International Trade](#international-trade)
    - [Industrial Organization](#industrial-organization)
@@ -57,6 +58,16 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 
 - **Course**: ECON 306 at Hood College [[Fall 2019](https://microf19.classes.ryansafner.com)]; [[Spring 2020](https://micros20.classes.ryansafner.com)]; [[Fall 2020](https://microf20.classes.ryansafner.com)]
 - **Details**: A stylized version of an indifference curve graph featuring a decrease in the price of good $X$. Bonus points if you can identify income and substitution effects! Produced with `ggplot2` (see `micro.R` script for source)
+
+## Economics of the Law
+
+![](stickers_png/law_hex.png)
+
+- **Course**: ECON 315 at Hood College [[[Spring 2021](https://lawS21.classes.ryansafner.com)]]
+- **Details**: Crudely designed on [Gravit Designer](https://www.designer.io/en/), images drawn from [The Noun Project](https://thenounproject.com)
+  - [Supply and Demand Graph by Alicia Kranjc](https://thenounproject.com/icon/707891/)
+  - [Justice by Jamie Hamilton](https://thenounproject.com/term/justice/13484/)
+  - [Justice by Lufti Gani al Achmad](https://thenounproject.com/term/justice/2722181/)
 
 ## Economics of Development
 
