@@ -37,6 +37,7 @@ package](https://github.com/mitchelloharawild/hexwall).
 
     -   [Microeconomics](#microeconomics)
     -   [Economics of the Law](#economics-of-the-law)
+    -   [Game Theory](#game-theory)
     -   [Economics of Development](#economics-of-development)
     -   [International Trade](#international-trade)
     -   [Industrial Organization](#industrial-organization)
@@ -74,6 +75,18 @@ package](https://github.com/mitchelloharawild/hexwall).
         Hamilton](https://thenounproject.com/term/justice/13484/)
     -   [Justice by Lufti Gani al
         Achmad](https://thenounproject.com/term/justice/2722181/)
+
+## Game Theory
+
+![](stickers_png/game_theory.png)
+
+-   **Course**: ECON 316 at Hood College \[[Fall
+    2021](https://gameF21.classes.ryansafner.com)\]
+-   **Details**: Crudely designed on [Gravit
+    Designer](https://www.designer.io/en/), images drawn from [The Noun
+    Project](https://thenounproject.com)
+    -   [Chess Horse by
+        kareemovic2000](https://thenounproject.com/term/chess-horse/1511307/)
 
 ## Economics of Development
 
