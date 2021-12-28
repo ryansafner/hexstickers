@@ -116,6 +116,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
   - [Supply and Demand Graph by Alicia Kranjc](https://thenounproject.com/icon/707891/)
   - [Justice by Jamie Hamilton](https://thenounproject.com/term/justice/13484/)
   - [Justice by Lufti Gani al Achmad](https://thenounproject.com/term/justice/2722181/)
+- **Main Color**: `r color_preview("#b14848")`
 
 ## Game Theory
 
@@ -124,6 +125,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 - **Course**: ECON 316 at Hood College [[Fall 2021](https://gameF21.classes.ryansafner.com)]
 - **Details**: Crudely designed on [Gravit Designer](https://www.designer.io/en/), images drawn from [The Noun Project](https://thenounproject.com)
   - [Chess Horse by kareemovic2000](https://thenounproject.com/term/chess-horse/1511307/)
+- **Main Color**: `r color_preview("#3e8763")`
 
 ## Economics of Development
 
@@ -131,6 +133,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 
 - **Course**: ECON 317 at Hood College [[Fall 2019](https://devf19.classes.ryansafner.com)]
 - **Details**: A stylized version of "the great fact" using [Maddison's historical GDP data](https://books.google.ca/books?id=YeoEiNLtrLsC&printsec=frontcover&dq=Angus+Maddison,+The+World+Economy,+vol.+2,+Historical+Statistics&hl=en&sa=X&ved=0ahUKEwjmnbvpy4HSAhWhx4MKHaJ0Ah0Q6AEIJTAA#v=onepage&q=Angus%20Maddison%2C%20The%20World%20Economy%2C%20vol.%202%2C%20Historical%20Statistics&f=false). Produced with `ggplot2` (see `dev.R` script for source)
+- **Main Color**: `r color_preview("#771C6D")`
 
 ## International Trade
 
@@ -140,6 +143,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 - **Details**: Crudely designed on [Gravit Designer](https://www.designer.io/en/), images drawn from [The Noun Project](https://thenounproject.com)
   - [Ship by Anne Bittencourt](https://thenounproject.com/icon/13420/)
   - [Globe by i cons](https://thenounproject.com/icon/1939582/)
+- **Main Color**: `r color_preview("#236192")`
 
 ## Industrial Organization
 
@@ -147,14 +151,16 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 
 - **Course**: ECON 326 at Hood College [[Spring 2020](https://ios20.classes.ryansafner.com)]
 - **Details**: My attempt at an abstract industry depicting firms of different sizes/market shares. Produced with `ggplot2` using code inspired by [Ed Rubin](https://github.com/edrubin/)'s awesome course slides (see `io.R` script for source)
+- **Main Color**: `r color_preview("#236192")`
 
 ## Public Economics
 
 ![](stickers_png/public_hex.png)
 
-- **Course**: ECON 410 at Hood College [[Spring 2020](https://publics20.classes.ryansafner.com)]
+- **Course**: ECON 410 at Hood College [[Spring 2020](https://publics20.classes.ryansafner.com)] [[Spring 2022](https://publics22.classes.ryansafner.com)]
 - **Details**: Bubble-packed chart using image, produced with `ggplot2` based on [this code](https://www.r-bloggers.com/bubble-packed-chart-with-r-using-packcircles-package/)  (see `oublic.R` script for source)
   - Image used: [Capitol Dome (cropped)](/image_sources/capitaldomecrop.jpg)
+- **Main Color**: `r color_preview("#771C6D")`
 
 ## History of Economic Thought
 
@@ -164,6 +170,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 - **Details**: Crudely designed on [Gravit Designer](https://www.designer.io/en/), images drawn from [The Noun Project](https://thenounproject.com)
   - [Supply and Demand Graph by Alicia Kranjc](https://thenounproject.com/icon/707891/)
   - [Quill and Book by Andreas Wilkström](https://thenounproject.com/icon/220016/)
+- **Main Color**: `r color_preview("#236192")`
 
 ## Econometrics
 
@@ -171,6 +178,7 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 
 - **Course**: ECON 480 at Hood College [[Fall 2019](https://metricsf19.classes.ryansafner.com)]; [[Fall 2020](https://metricsf20.classes.ryansafner.com)]
 - **Details**: Stylized version of [Hans Rosling's health + wealth plot](https://github.com/jennybc/gapminder). Produced in `ggplot2` (see `metrics.R` script for source)
+- **Main Color**: `r color_preview("#314f4f")`
 
 # License
 
