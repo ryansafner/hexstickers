@@ -1,3 +1,43 @@
+    # for displaying color circles inline
+    # from https://www.garrickadenbuie.com/blog/little-inline-color-boxes/
+
+    color_preview <- function(color) {
+      htmltools::tagList(
+        htmltools::span(
+          class = "color-preview",
+          style = paste("background-color:", color),
+          .noWS = "outside"
+        ),
+        htmltools::code(color, .noWS = "outside"),
+        color_preview_dep()
+      )
+    }
+
+    color_preview_dep <- function() {
+      htmltools::htmlDependency(
+        name = "color_preview",
+        version = "0.0.1",
+        src = ".",
+        all_files = FALSE,
+        head = "
+    <style>.color-preview {
+      display: inline-block;
+      width: 1em;
+      height: 1em;
+      border-radius: 50%;
+      margin: 0 0.33em;
+      vertical-align: middle;
+      transition: transform 100ms ease-in-out;
+    }
+
+    .color-preview:hover {
+      cursor: pointer;
+      transform: scale(2);
+      transform-origin: 50% 50%;
+    }</style>"
+      )
+    }
+
 Hex Stickers used for courses websites and course slides
 
 # Stickers
@@ -59,6 +99,7 @@ package](https://github.com/mitchelloharawild/hexwall).
     featuring a decrease in the price of good *X*. Bonus points if you
     can identify income and substitution effects! Produced with
     `ggplot2` (see `micro.R` script for source)
+-   **Main Color**: `color_preview("#236192")`
 
 ## Economics of the Law
 
