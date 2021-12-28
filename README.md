@@ -80,6 +80,8 @@ package](https://github.com/mitchelloharawild/hexwall).
         Hamilton](https://thenounproject.com/term/justice/13484/)
     -   [Justice by Lufti Gani al
         Achmad](https://thenounproject.com/term/justice/2722181/)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #b14848"></span><code>#b14848</code>
 
 ## Game Theory
 
@@ -92,6 +94,8 @@ package](https://github.com/mitchelloharawild/hexwall).
     Project](https://thenounproject.com)
     -   [Chess Horse by
         kareemovic2000](https://thenounproject.com/term/chess-horse/1511307/)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #3e8763"></span><code>#3e8763</code>
 
 ## Economics of Development
 
@@ -103,6 +107,8 @@ package](https://github.com/mitchelloharawild/hexwall).
     [Maddison’s historical GDP
     data](https://books.google.ca/books?id=YeoEiNLtrLsC&printsec=frontcover&dq=Angus+Maddison,+The+World+Economy,+vol.+2,+Historical+Statistics&hl=en&sa=X&ved=0ahUKEwjmnbvpy4HSAhWhx4MKHaJ0Ah0Q6AEIJTAA#v=onepage&q=Angus%20Maddison%2C%20The%20World%20Economy%2C%20vol.%202%2C%20Historical%20Statistics&f=false).
     Produced with `ggplot2` (see `dev.R` script for source)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #771C6D"></span><code>#771C6D</code>
 
 ## International Trade
 
@@ -116,6 +122,8 @@ package](https://github.com/mitchelloharawild/hexwall).
     -   [Ship by Anne
         Bittencourt](https://thenounproject.com/icon/13420/)
     -   [Globe by i cons](https://thenounproject.com/icon/1939582/)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #236192"></span><code>#236192</code>
 
 ## Industrial Organization
 
@@ -127,19 +135,24 @@ package](https://github.com/mitchelloharawild/hexwall).
     different sizes/market shares. Produced with `ggplot2` using code
     inspired by [Ed Rubin](https://github.com/edrubin/)’s awesome course
     slides (see `io.R` script for source)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #236192"></span><code>#236192</code>
 
 ## Public Economics
 
 ![](stickers_png/public_hex.png)
 
 -   **Course**: ECON 410 at Hood College \[[Spring
-    2020](https://publics20.classes.ryansafner.com)\]
+    2020](https://publics20.classes.ryansafner.com)\] \[[Spring
+    2022](https://publics22.classes.ryansafner.com)\]
 -   **Details**: Bubble-packed chart using image, produced with
     `ggplot2` based on [this
     code](https://www.r-bloggers.com/bubble-packed-chart-with-r-using-packcircles-package/)
     (see `oublic.R` script for source)
     -   Image used: [Capitol Dome
         (cropped)](/image_sources/capitaldomecrop.jpg)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #771C6D"></span><code>#771C6D</code>
 
 ## History of Economic Thought
 
@@ -154,6 +167,8 @@ package](https://github.com/mitchelloharawild/hexwall).
         Kranjc](https://thenounproject.com/icon/707891/)
     -   [Quill and Book by Andreas
         Wilkström](https://thenounproject.com/icon/220016/)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #236192"></span><code>#236192</code>
 
 ## Econometrics
 
@@ -165,6 +180,8 @@ package](https://github.com/mitchelloharawild/hexwall).
 -   **Details**: Stylized version of [Hans Rosling’s health + wealth
     plot](https://github.com/jennybc/gapminder). Produced in `ggplot2`
     (see `metrics.R` script for source)
+-   **Main Color**:
+    <span class="color-preview" style="background-color: #314f4f"></span><code>#314f4f</code>
 
 # License
 
