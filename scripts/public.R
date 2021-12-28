@@ -47,5 +47,5 @@ pub<-data_gg %>%
 
 # pub
 
-sticker(pub, package="", h_color="#236192", h_fill="#FFFFFF", s_x=1, s_y=1, s_width=2.5, s_height=1.5,
+sticker(pub, package="", h_color="#771C6D", h_fill="#FFFFFF", s_x=1, s_y=1, s_width=2.5, s_height=1.5,
         filename="stickers_png/public_hex.png")

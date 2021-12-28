@@ -3,6 +3,9 @@ title: "README"
 author: "Ryan Safner"
 date: "7/23/2020"
 output: md_document
+
+# Functions that produce HTML output found in document targeting markdown_strict-yaml_metadata_block output. Please change the output type of this document to HTML. Alternatively, you can allow html output in non-HTML formats by adding this option to the YAML front-matter of:
+always_allow_html: true 
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE,
                       warning = FALSE)
 ```
 
-```{r colors}
+```{r colors, echo = F}
 # for displaying color circles inline
 # from https://www.garrickadenbuie.com/blog/little-inline-color-boxes/
 
@@ -100,9 +103,9 @@ Hexwall made using [mitchelloharawild's `hexwall` package](https://github.com/mi
 
 ![](stickers_png/micro_hex.png)
 
-- **Course**: ECON 306 at Hood College [[Fall 2019](https://microf19.classes.ryansafner.com)]; [[Spring 2020](https://micros20.classes.ryansafner.com)]; [[Fall 2020](https://microf20.classes.ryansafner.com)]
+- **Course**: ECON 306 at Hood College [[Fall 2019](https://microf19.classes.ryansafner.com)]; [[Spring 2020](https://micros20.classes.ryansafner.com)]; [[Fall 2020](https://microf20.classes.ryansafner.com)]; [[Spring 2021](https://micros21.classes.ryansafner.com)]; [[Fall 2021](https://microf21.classes.ryansafner.com)]; [[Spring 2022](https://micros22.classes.ryansafner.com)]
 - **Details**: A stylized version of an indifference curve graph featuring a decrease in the price of good $X$. Bonus points if you can identify income and substitution effects! Produced with `ggplot2` (see `micro.R` script for source)
-- **Main Color**: `color_preview("#236192")`
+- **Main Color**: `r color_preview("#236192")`
 
 ## Economics of the Law
 
