@@ -168,7 +168,7 @@ package](https://github.com/mitchelloharawild/hexwall).
     -   [Quill and Book by Andreas
         Wilkström](https://thenounproject.com/icon/220016/)
 -   **Main Color**:
-    <span class="color-preview" style="background-color: #236192"></span><code>#236192</code>
+    <span class="color-preview" style="background-color: #b14848"></span><code>#b14848</code>
 
 ## Econometrics
 
