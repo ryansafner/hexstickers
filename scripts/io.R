@@ -35,5 +35,5 @@ io<-ggplot(data = venn_df, aes(x0 = x, y0 = y, r = r, fill = l, color = l)) +
   coord_equal()
 
 # io
-sticker(io, package="", h_color="#236192", h_fill="#FFFFFF", s_x=0.9, s_y=1, s_width=2.5, s_height=1.5,
+sticker(io, package="", h_color="#314f4f", h_fill="#FFFFFF", s_x=0.9, s_y=1, s_width=2.5, s_height=1.5,
         filename="stickers_png/io_hex.png")
